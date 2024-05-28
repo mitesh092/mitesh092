@@ -1,6 +1,5 @@
 
 <h1 align="center">#Hi 👋, I'm mitesh Vegad</h1>
-<h3 align="center">frontend developer & Android developer from India</h3>
 <h2 align="left">Hi 👋! My name is Mitesh veagd and I'm a Fronted & android dev, from  India</h2>
 
 ###

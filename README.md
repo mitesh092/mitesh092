@@ -47,7 +47,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mitesh092/mitesh092/output/snake.svg" alt="Snake animation" /> 
+
 
 ###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mitesh092&label=Profile%20views&color=0e75b6&style=flat" alt="mitesh092" /> </p>

@@ -65,7 +65,7 @@
 
 - 💬 Ask me about **Fronted dev & android dev**
 
-- 📫 How to reach me **miteshveagd148@gmail.com**
+- 📫 How to reach me **reachtome404@gmail.com**
 
 - ⚡ Fun fact **I create youtube videos**
 

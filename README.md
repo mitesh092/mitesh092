@@ -55,11 +55,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mitesh092" alt="mitesh092" /></a> </p>
 
-- 🔭 I’m currently working on **internshala -clone**
+- 🔭 I’m currently working on **Simple-chat-App**
 
 - 🌱 I’m currently learning **react, node.js & typescript**
 
-- 👯 I’m looking to collaborate on **Amazon clone**
+- 👯 I’m looking to collaborate on **Stocks market web-apps or Recat-native-apps**
 
 - 🤝 I’m looking for help with **Devops**
 

@@ -34,7 +34,7 @@
 ###
 
 <div align="left">
-  <a href="https://leetcode.com/u/mitesh_9/" target="_blank">
+  <a href="https://leetcode.com/u/mitesh_9/" >
     <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=000000&logoColor=orange&style=for-the-badge" height="35" alt="Leetcode logo" style="background-color: black;" />
   </a>
   <a href="https://www.youtube.com/channel/UCyourchannelid" target="_blank">

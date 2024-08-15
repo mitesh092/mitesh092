@@ -52,13 +52,13 @@
   <a href="mailto:reachtome404@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/mitesh-vegad" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
+  <a href="https://twitter.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitter logo" />
   </a>
-  <a href="https://t.me/yourusername" target="_blank">
+  <a href="https://t.me/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Telegram logo" />
   </a>
 </div>
@@ -85,7 +85,10 @@
 
 - 💬 Ask me about **Fronted dev & android dev**
 
-- 📫 How to reach me **reachtome404@gmail.com**
+- 📫 How to reach me <a href="mailto:reachtome404@gmail.com" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: #fff; background-color: #f00; text-decoration: none; border-radius: 5px;">
+  Click !
+</a>
+
 
 - ⚡ Fun fact **I create youtube videos**
 

@@ -34,6 +34,7 @@
 ###
 
 <div align="left">
+  <a href="https://leetcode.com/u/mitesh_9/" target= "_blank"><img scr="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=000000&logoColor=orange&style=for-the-badge%22%20alt=%22Leetcode%22%20style=%22background-color:%20black;" height="35" alt="youtube logo></a>
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />

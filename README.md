@@ -55,7 +55,7 @@
   <a href="https://www.linkedin.com/in/mitesh-vegad" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
-  <a href="https://twitter.com/mitesh0092" target="_blank">
+  <a href="https://x.com/MiteshVegad0092" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitter logo" />
   </a>
   <a href="https://t.me/mitesh222" target="_blank">
